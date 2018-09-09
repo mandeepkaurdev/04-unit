@@ -1,6 +1,6 @@
 # 04-unit
 
-# UI for Employee List and JavaScript Reading
+# UI for Employee List and JavaScript Best Practices Reading
 
 ## Part 1: UI for Employee List
 
