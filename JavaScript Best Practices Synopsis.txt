@@ -1,0 +1,8 @@
+Javascript Best Practices: Synopsis
+
+The article has covered the best practices for naming variables, commenting, and gave a few tips to help organize the code that is more important than ever in software development. 
+
+The best practices are choosing easy to understand and short names for variables and functions. Minimizing the use of global variables; this includes all data types, objects, and functions. (Analogy: Local variables are variables that are accessible to one method/function whereas global variables are accessible everywhere in the program and can be overwritten by other scripts). 
+
+Sticking to a strict coding style. Commenting the code as best as possible. Avoiding mixing of other technologies. Using shortcut notations to keep the code easier to read. Keeping the code modularized and specialized. Enhancing progressively and avoid creating a lot of JavaScript dependent code. Allowing for configuration and translation and everything that is likely to change in the code should not be scattered throughout the code. Avoiding heavy nesting like nesting loops inside loops. Instead optimizing loops as they can get terribly slow in JavaScript.
+
